@@ -11,3 +11,5 @@ Files:
 Pizza Sales Business Analysis-SQL; SQL queries used to process and normalize the data
 Power BI Visualization.pbix; Power BI dashboard
 pizza_sales_dashboard.png; Screenshoot of the dashboard for quick view. 
+
+![Pizza Sales Dashboard]
